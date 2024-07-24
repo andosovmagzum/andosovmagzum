@@ -1,6 +1,5 @@
-<h1 align="center">
 Hello there! 👋 
-<h2 align="center">
+
 My name is Magzum. 
 
   I'm a Software QA Automation Engineer.
